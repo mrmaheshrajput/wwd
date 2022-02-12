@@ -10,7 +10,7 @@ In this project, we will construct a speech dataset, implement an algorithm for 
 * By the end of this project, we will be able to record a clip of ourself talking, and have the algorithm trigger a function when it detects us saying "activate."
 * In continuation of this project, perhaps we can also extend it to run on your laptop so that every time you say "activate" it starts up your favorite app, or turns on a network connected lamp in your house, or triggers some other event?
 
-![sound waves](images/soung.png?raw=true)
+![sound waves](images/sound.png?raw=true)
 
 In this project we will:
 - Structure a speech recognition project
